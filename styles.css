@@ -133,6 +133,29 @@ font-size: 2.5rem;
     transform: scale(1.05);
 }
 
+#details{
+    padding: 40px 20px;
+    text-align: center;
+}
+
+#details ul{
+    list-style: none;
+    margin: 15px 0;
+}
+
+.book-btn{
+    padding: 10px 20px;
+    background: #a68a64;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.book-btn:hover{
+    background: #8c7354;
+}
+
 
 
 
