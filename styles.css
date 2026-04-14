@@ -65,4 +65,29 @@ nav a:hover{
     color: white;
 }
 
+.hero-content{
+    display: inline-block;
+    padding: 25px;
+    border-radius: 10px;
+}
+
+#hero h2{
+font-size: 2.5rem;
+}
+
+#hero p{
+    margin: 10px 0;
+}
+
+#hero button{
+    padding: 10px 20px;
+    border: none;
+    background: #a68a64;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
+
 
