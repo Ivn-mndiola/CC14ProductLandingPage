@@ -21,3 +21,39 @@ header{
     top: 0;
     z-index: 1000;
 }
+
+.logo{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+.logo img{
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+}
+
+nav{
+    display: flex;
+    gap: 20px;
+}
+
+nav a{
+    text-decoration: none;
+    color: #3e3e3e;
+    font-weight: 500;
+}
+
+nav a:hover{
+    color: #a68a64;
+}
+
+#menu-btn{
+    display: none;
+    font-size: 24px;
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
